@@ -1,3 +1,4 @@
+#Make all characters in string capital
 def capitalize_text():
     string = input()
     string_upper = string.upper()
